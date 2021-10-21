@@ -1,0 +1,16 @@
+Difference Between Compilers and Interpreters.
+
+1)Compilers compiles the entire code in one go. 
+While interpreters takes single line of code at a time.
+
+2)Compilers generates intermediate machine code.
+While interpreters don't generate any machine code.
+
+3)Compilers require more memory. 
+While interpreters require less memory.
+
+4)Compilers shows all the errors at once after compilation of entire program.
+While interpreters display all the errors line by line.
+
+5)Compilers are used by c,c++,c# etc. lanuages. 
+While interpreters are used by java,PHP, python, Ruby.
